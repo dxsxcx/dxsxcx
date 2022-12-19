@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dxsxcx
 - 👀 I’m interested in Python, C++, C# and javascript
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Salesforce Apex
 - 💞️ I’m looking to collaborate on Open source projects 
 - 📫 Send me a email to danielsantoscalderon95@gmail.com 
 
