@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dxsxcx
-- 👀 I’m interested in Python, C++, C# and javascript
+- 👀 I’m interested in Python, C++, C#, Java, Apex(Java) and javascript
 - 🌱 I’m currently learning advance python 
 - 💞️ I’m looking to collaborate on Open source projects 
 - 📫 Send me a email to danielsantoscalderon95@gmail.com 
